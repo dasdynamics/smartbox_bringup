@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
-  <name>smart_box_bringup</name>
+  <name>smartbox_bringup</name>
   <version>0.0.0</version>
   <description>Robot launch package.</description>
   <maintainer email="das-dev-dt@mail.ru">dmitry-savin-dev</maintainer>
